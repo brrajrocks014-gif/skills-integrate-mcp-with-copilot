@@ -1,0 +1,29 @@
+{
+  "22130001": {
+    "name": "Nguyễn Văn A",
+    "class": "CS2023",
+    "total_nrl": 20,
+    "activities": [
+      "Chess Club",
+      "Programming Class"
+    ]
+  },
+  "22130002": {
+    "name": "Trần Thị B",
+    "class": "CS2023",
+    "total_nrl": 18,
+    "activities": [
+      "Drama Club",
+      "Debate Team"
+    ]
+  },
+  "22130010": {
+    "name": "Lê Hoàng C",
+    "class": "CS2023",
+    "total_nrl": 24,
+    "activities": [
+      "Math Club",
+      "Soccer Team"
+    ]
+  }
+}
